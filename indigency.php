@@ -81,8 +81,8 @@
                         <select name="rSuffix" id="rSuffix">
                             <option value="" disabled selected hidden>Select Suffix</option>
                             <option value="N/A">N/A</option>
-                            <option value="JR.">JR.</option>
-                            <option value="SR.">SR.</option>
+                            <option value="Jr.">Jr.</option>
+                            <option value="Sr.">Sr.</option>
                             <option value="I">I</option>
                             <option value="II">II</option>
                             <option value="III">III</option>
@@ -115,13 +115,13 @@
                         <label for="rPurok">Purok<font color=red> * </font color></label>
                         <select name="rPurok" id="rPurok" required>
                             <option value="" disabled selected hidden>Select Purok</option>
-                            <option value="Purok 1">Purok 1</option>
-                            <option value="Purok 2">Purok 2</option>
-                            <option value="Purok 3">Purok 3</option>
-                            <option value="Purok 4">Purok 4</option>
-                            <option value="Purok 5">Purok 5</option>
-                            <option value="Purok 6">Purok 6</option>
-                            <option value="Purok 7">Purok 7</option>
+                            <option value="1">Purok 1</option>
+                            <option value="2">Purok 2</option>
+                            <option value="3">Purok 3</option>
+                            <option value="4">Purok 4</option>
+                            <option value="5">Purok 5</option>
+                            <option value="6">Purok 6</option>
+                            <option value="7">Purok 7</option>
                         </select>
                     </div>
 
