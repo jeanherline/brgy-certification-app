@@ -5,11 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register</title>
+    <title>Barangay Clearance</title>
     <link rel="icon" href="assets/images/bLogo.png" type="images/icon type" />
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <link rel="stylesheet" href="assets/css/permit.css">
+    <link rel="stylesheet" href="assets/css/clearance.css">
+
 </head>
 
 <body>
@@ -27,13 +28,20 @@
 
         <nav class="navbar">
             <ul>
-                <a href="indigency.php" >Indigency</a>
+                <a href="indigency.php">Indigency</a>
                 <a href="clearance.php" class="active">Clearance</a>
                 <a href="permit.php">Permit</a>
                 <a href="transactions.php">Transactions</a>
-                <a href="login.php"><button class="btn" id="btn1">Logout</button></a>
+                <div class="dropdown">
+                    <button class="btn" id="btn1"><i class="fas fa-user"></i></button>
+                    <div class="dropdown-content">
+                        <a href="settings.php">Settings</a>
+                        <a href="index.php">Logout</a>
+                    </div>
+                </div>
             </ul>
         </nav>
+
 
     </section>
 
