@@ -17,11 +17,6 @@
 
         <div class="logo">
             <img src="assets/images/logo.png" alt="" style="width: 300px; height: 100px;">
-
-            <!-- <div>
-                <a>Barangay Sampaloc</a><br>
-                <a style="font-size: 12px;">Bayan ng San Rafael, Bulacan</a>
-            </div> -->
         </div>
 
 
