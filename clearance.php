@@ -11,6 +11,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="assets/css/clearance.css">
 
+    <!--google material icon-->
+    <link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
+
 </head>
 
 <body>
@@ -178,10 +181,6 @@
                     <div class="input-field"></div>
                     <div class="input-field"></div>
                     <br>
-                    <label style="font-size: 14px;">
-                        <input type="checkbox" name="agree" value="Agree" required>
-                        <font color=green> Approved by the Chairman</font color>
-                    </label></input>
                 </div>
                 <div class="input-field"></div>
                 <div class="input-field"></div>

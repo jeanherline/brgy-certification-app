@@ -140,10 +140,7 @@
                     <div class="input-field"></div>
                     <div class="input-field"></div>
                     <br>
-                    <label style="font-size: 14px;">
-                        <input type="checkbox" name="agree" value="Agree" required>
-                        <font color=green> Approved by the Chairman</font color>
-                    </label></input>
+                    
                 </div>
                 <div class="input-field"></div>
                 <div class="input-field"></div>
